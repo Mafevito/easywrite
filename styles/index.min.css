@@ -1,0 +1,23 @@
+.box-init {
+  text-align: center;
+  width: 50%;
+  margin: 200px auto;
+}
+
+.collection >.waves-effect{
+  display: block;
+  margin-bottom: 20px;
+}
+
+.titles {
+  text-align: center;
+}
+
+.box-vowels {
+  cursor: pointer;
+}
+
+.box-alphabet{
+  float: left;
+  width: 20%;
+}
